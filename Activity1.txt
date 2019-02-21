@@ -4,3 +4,5 @@ Name: David Marco E. Caralian
 Address: La loma, Quezon City
 
 Favorite Color: Golden Yellow
+
+Age: 18
